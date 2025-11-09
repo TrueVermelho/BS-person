@@ -1,6 +1,6 @@
-# 🌐 Portfólio Base — HTML, CSS e JS
+# 🌐 Portfólio Base - HTML, CSS e JS
 
-Este repositório contém o **projeto base** do meu portfólio pessoal e empresarial, desenvolvido com **HTML, CSS e JavaScript puro**.
+Este repositório contém o **projeto base** do meu portfólio pessoal e empresarial, totalmente feito com **HTML, CSS e JavaScript puro**.  
 Ele foi criado para ser **estático e hospedado no GitHub Pages**, servindo como modelo para sites rápidos, responsivos e reutilizáveis.
 
 ---
@@ -41,21 +41,6 @@ bs-person/
 │
 └── README.md                # Este arquivo
 ```
-
----
-
-## 🚀 Acesso ao Site
-
-Visualize o site completo hospedado no **GitHub Pages**:
-👉 [https://truevermelho.github.io/BS-person/bs-person/index.html](https://truevermelho.github.io/BS-person/bs-person/index.html)
-
----
-
-## 🧩 Componentes Reutilizáveis (Utils)
-
-Você pode visualizar cada componente HTML individualmente, direto pelo GitHub Pages.
-📍 **Base URL:** [https://truevermelho.github.io/BS-person/bs-person/utils/](https://truevermelho.github.io/BS-person/bs-person/utils/)
-
 ---
 
 ### 🧱 Body Components
@@ -63,8 +48,8 @@ Você pode visualizar cada componente HTML individualmente, direto pelo GitHub P
 | Componente          | Link                                                                                                     |
 | ------------------- | -------------------------------------------------------------------------------------------------------- |
 | 🧭 Navegação        | [nav.html](https://truevermelho.github.io/BS-person/bs-person/utils/body/nav.html)                       |
-| 🏠 Home — Empresa   | [home-empresa.html](https://truevermelho.github.io/BS-person/bs-person/utils/body/home-empresa.html)     |
-| 💼 Home — Portfólio | [home-portfolio.html](https://truevermelho.github.io/BS-person/bs-person/utils/body/home-portfolio.html) |
+| 🏠 Home - Empresa   | [home-empresa.html](https://truevermelho.github.io/BS-person/bs-person/utils/body/home-empresa.html)     |
+| 💼 Home - Portfólio | [home-portfolio.html](https://truevermelho.github.io/BS-person/bs-person/utils/body/home-portfolio.html) |
 | 👤 Sobre            | [sobre.html](https://truevermelho.github.io/BS-person/bs-person/utils/body/sobre.html)                   |
 | 🧩 Cabeçalho        | [header.html](https://truevermelho.github.io/BS-person/bs-person/utils/body/header.html)                 |
 | 🔻 Rodapé           | [footer.html](https://truevermelho.github.io/BS-person/bs-person/utils/body/footer.html)                 |
@@ -82,4 +67,3 @@ Você pode visualizar cada componente HTML individualmente, direto pelo GitHub P
 | 🎥 YouTube                   | [youtube.html](https://truevermelho.github.io/BS-person/bs-person/utils/services/youtube.html)                     |
 | 🖨️ Botão de Mídia/Impressão | [botao-media-print.html](https://truevermelho.github.io/BS-person/bs-person/utils/services/botao-media-print.html) |
 
----
